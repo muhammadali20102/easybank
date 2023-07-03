@@ -1,0 +1,60 @@
+#footer{
+    background: #2D314D;
+    border: 3px solid red;
+}
+
+.footer-container container{
+    margin: 50px 50px 50px 50px; 
+}
+
+.footer-cardwrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 50;
+}
+
+.footer-cards_img{
+    padding: 40px;
+}
+
+.footer-cards-imgs{
+    display: block;
+    padding: 40px;
+}
+
+.footer-cards-text a{
+    display: block;
+    color: #FFF;
+    font-size: 15px;
+    font-family: PublicSans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: -0.234px;
+    padding: 10px;
+}
+
+.footer-cards-link a{
+    display: block;
+    color: #FFF;
+    text-align: right;
+    font-size: 15px;
+    font-family: PublicSans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: -0.234px;
+    padding: 25px;
+}
+
+.footer-cards-link button{
+    color: #FFF;
+    font-size: 14px;
+    font-family: Public Sans;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    border-radius: 22px;
+    background: linear-gradient(135deg, #33D35E 0%, #2AB6D9 100%);
+}
